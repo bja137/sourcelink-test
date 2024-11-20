@@ -1,0 +1,5 @@
+{
+    "documents": {
+        "C:\\Users\\bulcsu\\source\\repos\\sourcelink-test\\*": "https://raw.githubusercontent.com/bja137/sourcelink-test/5987f88e4821fb745edd8393ce629172ab7a06d8/*"
+    }
+}

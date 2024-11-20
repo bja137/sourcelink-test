@@ -1,10 +1,4 @@
-void bar(void) {
-	*(int*)0 = 0;
-}
-
-void foo(void) {
-	bar();
-}
+#include "foo.h"
 
 int main() {
 	foo();
